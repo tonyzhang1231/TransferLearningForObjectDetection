@@ -1,4 +1,4 @@
-# Transfer Learning for Object Detection Task, using InceptionV3 and YOLO
+# Transfer Learning for Object Detection Task, using InceptionV3 and YOLO in tensorflow
 The goal is to predict all the bounding boxes that containing an object and the category of the object for each bounding box.
 
 We used InceptionV3 as the base feature extractor and trained a new classifier, we implemented the loss function proposed in YOLO's paper as the loss function.
